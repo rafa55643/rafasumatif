@@ -1,0 +1,22 @@
+body {
+    background-color: #e7e7e7;
+    font-family: sans-serif;
+    padding-bottom: 50px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: #ff0000;
+    text-align: center;
+}
+
+h2 {
+   color: #ff0000;
+}
+
+img {
+    width: 250px
+}
+
+
+
